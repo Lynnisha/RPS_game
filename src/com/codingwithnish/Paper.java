@@ -2,6 +2,7 @@ package com.codingwithnish;
 
 public class Paper {
 
+
     String cpuAnswer;
 
 
@@ -29,3 +30,4 @@ public class Paper {
         }
     }
 }
+
